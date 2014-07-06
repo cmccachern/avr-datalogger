@@ -1,0 +1,30 @@
+Partlist
+
+Exported from Datalogger.brd at 3/9/14 2:48 PM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value           Package               Library                    Position (inch)       Orientation
+
+16M-XTAL                 HC49US                SparkFun-FreqCtrl          (1.7 1)               R0
+32K-XTAL                 TC26HEZ               SparkFun-FreqCtrl          (2.05 1.35)           R180
+C1                       CAP-PTH-SMALL-KIT     SparkFun-Passives          (1.8 1.35)            R270
+C2                       CAP-PTH-SMALL-KIT     SparkFun-Passives          (1.6 1.35)            R270
+C3                       CPOL-RADIAL-100UF-25V SparkFun-Capacitors        (2.85 0.55)           R180
+C5                       CPOL-RADIAL-100UF-25V SparkFun-Capacitors        (1.25 1)              R180
+C6                       CPOL-RADIAL-100UF-25V SparkFun-Capacitors        (1.25 1.35)           R180
+IC1      4050N           DIL16                 40xx                       (0.85 0.75)           R270
+IC2      DS1307          DIL08                 adafruit                   (2.45 1.3)            R270
+IC3                      TO-220-ALT            SparkFun-PowerIC           (0.85 1.5)            R0
+JP1                      2X08                  pinhead                    (0.25 0.5)            R270
+JP3                      1X02                  pinhead                    (0.3 1.45)            R180
+JP4                      1X14                  adafruit                   (1.9 0.1)             R0
+JP5                      1X02                  pinhead                    (3.15 1.5)            R0
+JP6                      1X06                  SparkFun-Connectors        (3.15 0.95)           R270
+R3       10K             AXIAL-0.4             SparkFun-Passives          (2.95 1.25)           R90
+R4       1K              AXIAL-0.4             SparkFun-Passives          (2.6 0.95)            R0
+R5       1K              AXIAL-0.4             SparkFun-Passives          (2.8 1.25)            R270
+S1                       TACTILE-PTH           SparkFun-Electromechanical (3 0.2)               R180
+U1       ATMEGA328P_PDIP DIL28-3               SparkFun-DigitalIC         (1.9 0.5)             R180
